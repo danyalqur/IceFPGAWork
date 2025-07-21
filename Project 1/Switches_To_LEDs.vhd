@@ -10,8 +10,8 @@ entity Switches_To_LEDs is
     o_LED_1     :   out std_logic;
     o_LED_2     :   out std_logic;
     o_LED_3     :   out std_logic;
-    o_LED_4     :   out std_logic;
-    )
+    o_LED_4     :   out std_logic);
+    
 end entity Switches_To_LEDs;
 architecture RTL of Switches_To_LEDs is
     begin

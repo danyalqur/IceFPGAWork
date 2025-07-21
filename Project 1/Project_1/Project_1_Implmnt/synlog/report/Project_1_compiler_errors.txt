@@ -1,0 +1,4 @@
+@E: CD126 :"C:\Users\danya\Desktop\IceFPGAWork\Project 1\Switches_To_LEDs.vhd":14:4:14:4|Expecting identifier
+@E: CD632 :"C:\Users\danya\Desktop\IceFPGAWork\Project 1\Switches_To_LEDs.vhd":15:27:15:27|duplicate entity name switches_to_leds
+@E: Parse errors encountered - exiting
+
