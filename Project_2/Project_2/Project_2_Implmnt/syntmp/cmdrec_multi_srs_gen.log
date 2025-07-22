@@ -1,0 +1,7 @@
+C:\lscc\iCEcube2.2020.12\synpbase\bin64\syn_nfilter.exe  -link  -multisrs  C:\Users\danya\Desktop\IceFPGAWork\Project_2\Project_2\Project_2_Implmnt\synwork\Project_2_comp.srs  -osyn  C:\Users\danya\Desktop\IceFPGAWork\Project_2\Project_2\Project_2_Implmnt\synwork\Project_2_mult.srs  -log  C:\Users\danya\Desktop\IceFPGAWork\Project_2\Project_2\Project_2_Implmnt\synlog\Project_2_multi_srs_gen.srr 
+rc:0 success:1 runtime:0
+file:C:\Users\danya\Desktop\IceFPGAWork\Project_2\Project_2\Project_2_Implmnt\synwork\Project_2_comp.srs|io:i|time:1753144829|size:1809|exec:0
+file:C:\Users\danya\Desktop\IceFPGAWork\Project_2\Project_2\Project_2_Implmnt\synwork\Project_2_mult.srs|io:o|time:1753144831|size:1544|exec:0
+file:C:\Users\danya\Desktop\IceFPGAWork\Project_2\Project_2\Project_2_Implmnt\synlog\Project_2_multi_srs_gen.srr|io:o|time:1753144831|size:723|exec:0
+file:C:\lscc\iCEcube2.2020.12\synpbase\bin\syn_nfilter.exe|io:i|time:1751211033|size:3128320|exec:1
+file:C:\lscc\iCEcube2.2020.12\synpbase\bin64\syn_nfilter.exe|io:i|time:1751211034|size:3947520|exec:1
