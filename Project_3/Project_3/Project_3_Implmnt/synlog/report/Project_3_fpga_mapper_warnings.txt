@@ -1,0 +1,2 @@
+@W: FX1039 :"c:\users\danya\desktop\icefpgawork\project_3\led_toggle_project.vhd":15:44:15:46|User-specified initial value defined for instance r_LED_1 is being ignored. 
+@W: FX1039 :"c:\users\danya\desktop\icefpgawork\project_3\led_toggle_project.vhd":20:12:20:13|User-specified initial value defined for instance r_Switch_1 is being ignored. 
